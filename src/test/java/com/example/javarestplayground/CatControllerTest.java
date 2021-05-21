@@ -22,7 +22,7 @@ public class CatControllerTest {
         public void catListShouldReturnListOfCats() throws Exception {
             assertEquals(
                 "Meow!",
-                this.restTemplate.getForObject(("http://localhost:" + port + "/"), String.class)
+                this.restTemplate.getForObject(("http://localhost:" + port + "/cats"), String.class)
             );
         }
 }
