@@ -7,7 +7,7 @@ A playground project where I want to build REST API using Java SE 11 with Spring
 * install [Gradle](https://gradle.org/install/)
 * install [Java JDK 11](https://adoptopenjdk.net/)
 
-Start application with 
+Start application with
 
 ```sh
 gradle bootRun
@@ -18,3 +18,7 @@ Run tests with
 gradle test
 ```
 
+## Swagger UI
+
+After booting the application locally, access the generated Swagger UI endpoint documentation at: 
+http://localhost:8080/swagger-ui.html
