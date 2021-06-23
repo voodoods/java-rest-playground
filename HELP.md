@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.example.java-rest-playground' is invalid and this project uses 'com.example.javarestplayground' instead.
+* The original package name 'com.example.java-spring-boot-playground' is invalid and this project uses 'com.example.javaspringbootplayground' instead.
 
 # Getting Started
 

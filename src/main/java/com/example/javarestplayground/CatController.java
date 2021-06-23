@@ -1,4 +1,4 @@
-package com.example.javarestplayground;
+package com.example.javaspringbootplayground;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

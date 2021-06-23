@@ -1,4 +1,4 @@
-package com.example.javarestplayground;
+package com.example.javaspringbootplayground;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

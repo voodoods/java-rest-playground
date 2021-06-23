@@ -1,4 +1,4 @@
-# java-rest-playground
+# java-spring-boot-playground
 A playground project where I want to build REST API using Java SE 11 with Spring Boot 2.4.6.
 
 
